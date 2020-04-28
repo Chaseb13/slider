@@ -1,4 +1,3 @@
-window.onload = function() {
 	`use strict`;
 
 	let images = document.querySelectorAll(`.slide`);
@@ -47,5 +46,3 @@ window.onload = function() {
 	}
 
 	startSliding();
-
-};
